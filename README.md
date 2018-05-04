@@ -19,4 +19,7 @@ self.tableView.tableHeaderView = _shuffingPicView;
 @gitname  :  programKnight
 
 
-
+@git
+https://github.com/programKnight/ShuffingPicView
+@mail
+969377508@qq.com （学习交流）
