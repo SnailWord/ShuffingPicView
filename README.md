@@ -16,10 +16,11 @@ self.tableView.tableHeaderView = _shuffingPicView;
 有意见请提出，会及时更改。
 
 
-@gitname  :  programKnight
+@gitname  :  iTwinkle
 
 
 @git
-https://github.com/programKnight/ShuffingPicView
+https://github.com/iTwinkle/ShuffingPicView
+
 @mail
 969377508@qq.com （学习交流）
